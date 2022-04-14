@@ -10,11 +10,13 @@ When using I-ForGer please cite:
     author = "Eder, Elisabeth  and
       	      Krieg-Holz, Ulrike  and
       	      Hahn, Udo",
-    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL)",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
     month = apr,
     year = "2021",
-    address = "Kyiv, Ukraine",
+    address = "Online",
     publisher = "Association for Computational Linguistics",
-    note = "to appear"
+    url = "https://aclanthology.org/2021.eacl-main.174",
+    doi = "10.18653/v1/2021.eacl-main.174",
+    pages = "2028--2041"
 }
 ```
