@@ -4,7 +4,7 @@ I-ForGer is a German-language lexicon with words ordered along the informal-form
 
 The 3,000 words were obtained utilizing lexicographic resources and sentence-based similarity computations. Crowdsourcing (data workers were German native speakers) and Best-worst scaling were used to assess their formality.
 
-When using I-ForGer please cite:
+When using I-ForGer, please cite:
 
 ```
 @inproceedings{Eder21,
